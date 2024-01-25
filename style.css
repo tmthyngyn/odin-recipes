@@ -1,2 +1,26 @@
+body {
+    font-family: "Times New Roman", Arial, Verdana;
+}
+
+.title {
+    font-size: 60px;
+}
+
+.recipe {
+    font-size: 24px;
+    color: black;
+}
+
+.moussaka {
+    color: black;
+}
+
+.banana-banana-bread {
+    color: red;
+}
+
+.chicken-fried-chicken {
+    color: #d5b60a;
+}
 
 
